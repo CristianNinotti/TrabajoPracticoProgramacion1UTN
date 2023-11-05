@@ -1,9 +1,9 @@
 Algoritmo TOMASOTE
 	
-	Definir opcionMenu,opcionVuelo,capacidadPasajeros Como Entero
+	Definir opcionVuelo,capacidadPasajeros Como Entero
 	definir filas, filas2, columnas como entero
 	definir contadorRuta1,contadorRuta2,contadorRuta3,contadorRuta4 Como Entero
-	Definir rutas,vueloDestino1,vueloDestino2, vueloDestino3, vueloDestino4 Como Cadena
+	Definir rutas,vueloDestino1,vueloDestino2, vueloDestino3, vueloDestino4, opcionMenu Como Cadena
 	Definir n como entero
 	
 	
@@ -142,7 +142,7 @@ Algoritmo TOMASOTE
 
 	FinSegun
 	
-Mientras Que 	opcionMenu <> 6
+Mientras Que 	ConvertirATexto(opcionMenu) <> "SALIR"
 FinAlgoritmo
 
 SubProceso cargaDatos(vueloDestino Por Referencia, filas, columnas, rutas, contadorRuta, capacidadPasajeros, r, cp)
