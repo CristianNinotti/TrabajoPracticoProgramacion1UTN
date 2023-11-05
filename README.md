@@ -68,9 +68,9 @@ vistas en la materia.
 
 /// Este trabajo practico: //
 
-*Consta de 10 Versiones, en las cuales tuvimos que hacer muchas modificaciones y correciones por la Profesora Mercedes Valoni y Natalia Fernandez
-*Este trasbajo practico lo integran: Gonzalez Nahuel - Ramirez Tomas - Ninotti Cristian
-*En los 10, se puede ver en la parte posterior las modificaciones y correciones que se realizaron en cada uno debajo y comentarios.
+*Consta de 10 Versiones, en las cuales tuvimos que hacer muchas modificaciones y correciones por la Profesora Mercedes Valoni y Natalia Fernandez.
+*Este trabajo practico lo integran: Gonzalez Nahuel - Ramirez Tomas - Ninotti Cristian.
+ *En los 10, se puede ver en la parte posterior las modificaciones y correciones que se realizaron en cada uno debajo y comentarios.
 Ejemplo:
 ![image](https://github.com/CristianNinotti/TrabajoPracticoProgramacion1UTN/assets/102320892/771c9b17-a08a-43e8-b589-775eec4eed48)
 Horas de trabajo aproximadas: 35 Horas
