@@ -35,6 +35,7 @@ Algoritmo VentaPasajesAereos
 	Dimension vueloDestino4[filas2,columnas]
 	//Menu principal
 	Repetir
+	Repetir
 		
      Escribir " Bienvenido a Aerolineas Gonzalez "
 		Escribir"1- Venta pasaje"
@@ -200,6 +201,7 @@ Algoritmo VentaPasajesAereos
 		caso 6:
 			Mostrar "Gracias por visitar"
 	FinSegun
+	Mientras que opcion <> 6
 
 FinAlgoritmo
 //Subproceso generico para la carga de datos del cliente. Cuenta con sus respectivas validaciones
